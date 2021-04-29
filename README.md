@@ -5,6 +5,7 @@
 
 - タイトル：玉造駅改札
 - ジャンル：3Dモデル
+- 参考にした場所：大阪環状線玉造駅
 - 制作：2020年3月
 - 使用ソフト：Blender2.8
 - 使用アドオン：BlenderLauncher, fSpy, PBR Materials, Apply Modifier
